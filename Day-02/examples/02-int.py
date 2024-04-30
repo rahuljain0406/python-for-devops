@@ -1,6 +1,6 @@
 # Integer variables
 num1 = 10
-num2 = 5
+num2 = 6
 
 # Integer Division
 result1 = num1 // num2
